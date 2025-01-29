@@ -1,0 +1,1 @@
+This project contains the code and data used in my BA in the field of Political and Administration Science at the University Konstanz. It is based on the seminar project "Poizeigesetz Analysis" by Dr. Sebastian Köhler.
